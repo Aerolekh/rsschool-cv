@@ -3,7 +3,7 @@
 ### Contacts
 * E-mail: aerolekh@gmail.com
 * Mobile/WhatsApp: +7-778-50-40-181
-* GitHub: @Aerolekh
+* GitHub: [Aerolekh](https://github.com/Aerolekh)
 * Location: Nur-Sultan, Kazakhstan 
 
 ### Goals
