@@ -1,3 +1,3 @@
 # rsschool-cv
 Rsschool-cv task
-https://Aerolekh.github.io/rsschool-cv/cv
+[CV] (https://Aerolekh.github.io/rsschool-cv/cv) 
