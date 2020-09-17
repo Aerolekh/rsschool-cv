@@ -3,6 +3,7 @@
 ### Contacts
 * E-mail: aerolekh@gmail.com
 * Mobile/WhatsApp: +7-778-50-40-181
+* Location: Nur-Sultan, Kazakhstan 
 
 ### Goals
 * #### Become an IT specialist and change my current non IT occupation. 
