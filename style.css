@@ -1,0 +1,26 @@
+
+body{
+    max-width: 1024px;
+    font-family: "Arial", sans-serif;
+    text-align: left;
+    background-color: rgba(201, 236, 247, 0.781);
+
+}
+header{
+    text-align: center;
+}
+h2{
+    font-size: 23px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ul{
+    line-height: 25px;
+}
+
+footer{
+    background-color: black;
+    height: 20px;
+    text-align: center;
+}
